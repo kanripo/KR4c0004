@@ -6,6 +6,7 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB04n0329-000楊盈川集-序.
+# ?
 <pb:KR4c0004_SBCK_000-1a>¶
 楊盈川集序(明)皇甫汸¶
 嘗觀經籍阨於先秦之火擾於中原之兵浸聚浸逸¶
@@ -23,6 +24,7 @@
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB04n0329-000楊盈川集-目録.
 <pb:KR4c0004_SBCK_000-2a>¶
+# SB1_0608-004.png
 楊盈川集¶
 　　　　　　　　　　　唐　華隂　楊烱　撰¶
 　　　　　　　　　　　皇明龍游　童珮詮次¶
